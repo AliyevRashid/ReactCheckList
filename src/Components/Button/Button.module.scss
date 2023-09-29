@@ -1,0 +1,17 @@
+
+button{
+    background-color: black;
+    padding:8px 10px;
+    margin: 5px;
+    color:whitesmoke;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+    &:hover{
+        background-color: darkgray;
+    cursor: pointer;
+    }
+    &:active{
+        background-color: lightgray;
+    }
+}

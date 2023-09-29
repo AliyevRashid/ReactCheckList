@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input,button{
+    appearance: none;
+    border: none;
+}
+
+button{
+    background-color: none;
+}
+input {
+    outline: none;
+}
